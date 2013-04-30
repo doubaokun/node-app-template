@@ -1,0 +1,24 @@
+{
+  "name": "node-app",
+  "version": "0.0.1",
+  "description": "",
+  "bin": {
+    "": ""
+  },
+  "dependencies": {
+    "colors": "~0.6.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.17",
+    "grunt-beautify": "~0.1.1",
+    "grunt-shell": "~0.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/doubaokun/"
+  },
+  "keywords": [
+  ],
+  "author": "Bruce Dou <doubaokun@gmail.com>",
+  "url": "https://github.com/doubaokun/node-app/blob/master/LICENSE-MIT"
+}
